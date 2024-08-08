@@ -1,4 +1,4 @@
-## 👋안녕하세요, 박정빈입니다.  ![EN](https://github.com/obb8923/obb8923/blob/main/README_EN.md)
+## 👋안녕하세요, 박정빈입니다.  [EN](https://github.com/obb8923/obb8923/blob/main/README_EN.md)
 ### 🏫학력 
 국민대학교 나노전자물리학과, 소프트웨어학과 학사과정 진행중
 ### 🧑‍💻프로젝트
