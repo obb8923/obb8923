@@ -10,7 +10,6 @@
       <th>구분</th>
       <th>사용기술</th>
       <th>비고</th>
-
     </tr>
   </thead>
   <tbody>
