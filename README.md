@@ -9,44 +9,54 @@
       <th>기간</th>
       <th>구분</th>
       <th>사용기술</th>
+      <th>비고</th>
+
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href="https://github.com/Ragohalttae-Develop-Halgeol/rdh-frontend">방울</a></td>
+      <td>24.08.31~24.09.01</td>
+      <td>교내 해커톤</td>
+      <td>React</td>
+      <td>우수상(2등)</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/PTDuo/Front">PTDuo</a></td>
       <td>24.07.30~24.08.06</td>
       <td>개별 팀</td>
       <td>React</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/obb8923/whip">whip</a></td>
       <td>24.07.22~24.07.26</td>
       <td>교내 부트캠프(magicecole)</td>
-      <td>React, Azure OpenAI API</td>
+      <td>React, Azure OpenAI API</td><td>수료증</td>
     </tr>
     <tr>
       <td><a href="https://github.com/obb8923/kurumet">kurumet</a></td>
       <td>24.07.03~진행중</td>
       <td>개인</td>
-      <td>Next.js, TS</td>
+      <td>Next.js, TS</td><td></td>
     </tr>
      <tr>
       <td><a href="https://github.com/obb8923/capstone-2024-43">문향</a></td>
       <td>24.03.08~24.05.27</td>
       <td>교내 수업</td>
-      <td>React, node.js, express, MySQL</td>
+      <td>React, node.js, express, MySQL</td><td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/obb8923/PBL">PBL</a></td>
       <td>24.01.08~24.01.19</td>
       <td>교내 부트캠프(codestates)</td>
-      <td>HTML, CSS, JS</td>
+      <td>HTML, CSS, JS</td><td>수료증</td>
     </tr>
     <tr>
       <td><a href="https://github.com/obb8923/Team7App">건강기록</a></td>
       <td>23.09.15~23.12.08</td>
       <td>교내 수업</td>
-      <td>android studio, kotlin, firebase</td>
+      <td>android studio, kotlin, firebase</td><td></td>
     </tr>
   </tbody>
 </table>
