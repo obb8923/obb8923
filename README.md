@@ -13,6 +13,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/kookmin-lion-teams/Dormitory-App-Front">국민대 기숙사 앱</a></td>
+      <td>24.09.11~진행중</td>
+      <td>개별 팀</td>
+      <td>ReactNative, Expo</td>
+      <td></td>
+    </tr>
      <tr>
       <td><a href="https://github.com/Ragohalttae-Develop-Halgeol/rdh-frontend">방울</a></td>
       <td>24.08.31~24.09.01</td>
