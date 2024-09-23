@@ -13,6 +13,13 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href="https://github.com/team-tokpik/tokpik-fe">톡픽</a></td>
+      <td>24.09.21~진행중</td>
+      <td>개별 팀</td>
+      <td>Next.js, TS</td>
+      <td></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/kookmin-lion-teams/Dormitory-App-Front">국민대 기숙사 앱</a></td>
       <td>24.09.11~진행중</td>
