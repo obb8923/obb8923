@@ -16,7 +16,7 @@
      <tr>
       <td><a href="https://github.com/team-tokpik/tokpik-fe">톡픽</a></td>
       <td>24.09.21~진행중</td>
-      <td>개별 팀</td>
+      <td>연합 동아리 대회</td>
       <td>Next.js, TS</td>
       <td></td>
     </tr>
