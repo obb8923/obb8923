@@ -16,16 +16,16 @@
      <tr>
       <td><a href="https://github.com/team-tokpik/tokpik-fe">톡픽</a></td>
       <td>24.09.21~24.10.12</td>
-      <td>연합 동아리 대회</td>
+      <td>연합 동아리 대회(뭉게구름)</td>
       <td>Next.js, TS</td>
-      <td></td>
+      <td>최우수상(2등)</td>
     </tr>
     <tr>
       <td><a href="https://github.com/kookmin-lion-teams/Dormitory-App-Front">국민대 기숙사 앱</a></td>
-      <td>24.09.11~진행중</td>
-      <td>개별 팀</td>
+      <td>24.09.11~24.09.21</td>
+      <td>연합 동아리 대회(멋사)</td>
       <td>ReactNative, Expo</td>
-      <td></td>
+      <td>3등</td>
     </tr>
      <tr>
       <td><a href="https://github.com/Ragohalttae-Develop-Halgeol/rdh-frontend">방울</a></td>
@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 #### 🌱 해 본 것들 (웹 관련)
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"><img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"><img src="https://img.shields.io/badge/vanillaextract-F1007E?logo=vanillaextract&logoColor=fff&style=for-the-badge"><img src="https://img.shields.io/badge/zustand-F3DF49?logo=zustand&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"><img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"><img src="https://img.shields.io/badge/vanillaextract-F1007E?logo=vanillaextract&logoColor=fff&style=for-the-badge"><img src="https://img.shields.io/badge/zustand-F3DF49?logo=zustand&logoColor=fff&style=for-the-badge"><img src="https://img.shields.io/badge/StoryBook-FF4785?logo=StoryBook&logoColor=fff&style=for-the-badge">
 
 
 
