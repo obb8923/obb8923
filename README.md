@@ -35,7 +35,7 @@
       <td>우수상(2등)</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/obb8923/lion_Front">PTDuo</a></td>
+      <td><a href="https://github.com/kookmin-lion-teams/Front">PTDuo</a></td>
       <td>24.07.30~24.08.06</td>
       <td>개별 팀</td>
       <td>React</td>
