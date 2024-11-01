@@ -14,6 +14,13 @@
   </thead>
   <tbody>
      <tr>
+      <td>등대</td>
+      <td>24.11.00~진행중</td>
+      <td>연합 동아리 대회(단풍톤)</td>
+      <td>RN, TS, StoryBook </td>
+      <td></td>
+    </tr>
+     <tr>
       <td><a href="https://github.com/team-tokpik/tokpik-fe">톡픽</a></td>
       <td>24.09.21~24.10.12</td>
       <td>연합 동아리 대회(뭉게구름)</td>
