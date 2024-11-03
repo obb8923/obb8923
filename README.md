@@ -15,7 +15,7 @@
   <tbody>
      <tr>
       <td>내일모래</td>
-      <td>24.11.17~진행중</td>
+      <td>24.11.18~진행중</td>
       <td>연합 동아리 대회(단풍톤)</td>
       <td>RN, TS, StoryBook </td>
       <td></td>
