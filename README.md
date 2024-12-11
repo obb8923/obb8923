@@ -15,10 +15,10 @@
   <tbody>
      <tr>
       <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_22_FE">내일모래</td>
-      <td>24.11.18~진행중</td>
+      <td>24.11.18~24.12.08</td>
       <td>연합 동아리 대회(단풍톤)</td>
-      <td>RN, TS, StoryBook </td>
-      <td></td>
+      <td>ReactNative, TypeScript </td>
+      <td>대상(1등)</td>
     </tr>
      <tr>
       <td><a href="https://github.com/team-tokpik/tokpik-fe">톡픽</a></td>
