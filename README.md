@@ -20,7 +20,7 @@
     </tr>
      <tr>
       <td><a href="https://github.com/team-tokpik/tokpik-fe">톡픽</a></td>
-      <td>24.09.21~24.10.12</td>
+      <td>24.09.21~24.10.12~</td>
       <td>연합 동아리 대회(뭉게구름)</td>
       <td>Next.js, TS</td>
       <td>최우수상(2등)</td>
@@ -54,7 +54,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/obb8923/kurumet">kurumet</a></td>
-      <td>24.07.03~진행중</td>
+      <td>24.07.03~25.00.00</td>
       <td>개인</td>
       <td>Next.js, TS</td><td></td>
     </tr>
