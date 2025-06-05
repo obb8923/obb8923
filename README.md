@@ -13,14 +13,14 @@
   <tbody>
      <tr>
       <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_22_FE">내일모래</td>
-      <td>24.11.18~24.12.08</td>
+      <td>24.11.18~24.12.08~</td>
       <td>연합 동아리 대회(단풍톤)</td>
       <td>ReactNative, TypeScript </td>
       <td>대상(1등)</td>
     </tr>
      <tr>
       <td><a href="https://github.com/team-tokpik/tokpik-fe">톡픽</a></td>
-      <td>24.09.21~24.10.12~</td>
+      <td>24.09.21~24.10.12</td>
       <td>연합 동아리 대회(뭉게구름)</td>
       <td>Next.js, TS</td>
       <td>최우수상(2등)</td>
