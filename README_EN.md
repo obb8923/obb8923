@@ -5,18 +5,92 @@ Currently pursuing a Bachelor's degree in Nanophysics and Software at Kookmin Un
 
 ### 🧑‍💻 Projects
 
-| Title | Duration | Category | Technologies Used | Remarks |
-|---|---|---|---|---|
-| [Tokpik](https://github.com/team-tokpik/tokpik-fe) | 21.09.2024 ~ 12.10.2024 | Club Competition (Munggae Cloud) | Next.js, TS | 2nd Place (Excellence Award) |
-| [Kookmin University Dormitory App](https://github.com/kookmin-lion-teams/Dormitory-App-Front) | 11.09.2024 ~ 21.09.2024 | Club Competition (LikeLion) | ReactNative, Expo | 3rd Place |
-| [Bangul](https://github.com/Ragohalttae-Develop-Halgeol/rdh-frontend) | 31.08.2024 ~ 01.09.2024 | Internal Hackathon | React | 2nd Place (Excellence Award) |
-| [PTDuo](https://github.com/kookmin-lion-teams/Front) | 30.07.2024 ~ 06.08.2024 | Independent Team | React |  |
-| [whip](https://github.com/obb8923/whip) | 22.07.2024 ~ 26.07.2024 | Internal Bootcamp (magicecole) | React, Azure OpenAI API | Certificate of Completion |
-| [kurumet](https://github.com/obb8923/kurumet) | 03.07.2024 ~ Ongoing | Personal | Next.js, TS |  |
-| [Moonhyang](https://github.com/obb8923/capstone-2024-43) | 08.03.2024 ~ 27.05.2024 | Internal Course | React, node.js, express, MySQL |  |
-| [PBL](https://github.com/obb8923/PBL) | 08.01.2024 ~ 19.01.2024 | Internal Bootcamp (codestates) | HTML, CSS, JS | Certificate of Completion |
-| [Health Record](https://github.com/obb8923/Team7App) | 15.09.2023 ~ 08.12.2023 | Internal Course | Android Studio, Kotlin, Firebase |  |
-
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Duration</th>
+<th>Category</th>
+<th>Technologies</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.companyjeong.online/">Personal App Development</td>
+<td>Ongoing</td>
+<td>-</td>
+<td>ReactNative</td>
+<td><a href="https://www.companyjeong.online/">Refer to Website</td>
+</tr>
+<tr>
+<td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_22_FE">Naeilmorae</td>
+<td>24.11.18~24.12.08~</td>
+<td>Joint Club Competition (Danpoong-thon)</td>
+<td>ReactNative, TypeScript </td>
+<td>Grand Prize (1st Place)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/team-tokpik/tokpik-fe">Tokpik</a></td>
+<td>24.09.21~24.10.12</td>
+<td>Joint Club Competition (Mungge-Gureum)</td>
+<td>Next.js, TS</td>
+<td>Excellence Award (2nd Place)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/kookmin-lion-teams/Dormitory-App-Front">Kookmin Univ. Dormitory App</a></td>
+<td>24.09.11~24.09.21</td>
+<td>Joint Club Competition (Mut-sa)</td>
+<td>ReactNative, Expo</td>
+<td>3rd Place</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Ragohalttae-Develop-Halgeol/rdh-frontend">Bang-ul</a></td>
+<td>24.08.31~24.09.01</td>
+<td>On-campus Hackathon</td>
+<td>React</td>
+<td>Award of Merit (2nd Place)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/kookmin-lion-teams/Front">PTDuo</a></td>
+<td>24.07.30~24.08.06</td>
+<td>Individual Team</td>
+<td>React</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/obb8923/whip">whip</a></td>
+<td>24.07.22~24.07.26</td>
+<td>On-campus Bootcamp (magicecole)</td>
+<td>React, Azure OpenAI API</td><td>Certificate of Completion</td>
+</tr>
+<tr>
+<td><a href="https://github.com/obb8923/kurumet">kurumet</a></td>
+<td>24.07.03~25.00.00</td>
+<td>Personal</td>
+<td>Next.js, TS</td><td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/obb8923/capstone-2024-43">Moonhyang</a></td>
+<td>24.03.08~24.05.27</td>
+<td>On-campus Coursework</td>
+<td>React, node.js, express, MySQL</td><td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/obb8923/PBL">PBL</a></td>
+<td>24.01.08~24.01.19</td>
+<td>On-campus Bootcamp (codestates)</td>
+<td>HTML, CSS, JS</td><td>Certificate of Completion</td>
+</tr>
+<tr>
+<td><a href="https://github.com/obb8923/Team7App">Health Record</a></td>
+<td>23.09.15~23.12.08</td>
+<td>On-campus Coursework</td>
+<td>android studio, kotlin, firebase</td><td></td>
+</tr>
+</tbody>
+</table>
+  
 ### 🧩 Skills
 #### 🔭 Focused on
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
