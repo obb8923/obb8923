@@ -11,6 +11,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://www.companyjeong.online/">개인 앱 개발 중</td>
+      <td>계속 진행 중</td>
+      <td>-</td>
+      <td>ReactNative</td>
+      <td><a href="https://www.companyjeong.online/">웹 사이트 참고</td>
+    </tr>
      <tr>
       <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_22_FE">내일모래</td>
       <td>24.11.18~24.12.08~</td>
